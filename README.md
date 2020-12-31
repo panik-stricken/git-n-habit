@@ -2,7 +2,6 @@
 
  > 2021 Isn't going to know what hit it.
  
- 
 ## introduction
   GitHub is mainly a platform for software developers, and teams thereof, to collaborate on medium to enterprise scale programming projects.  
   
@@ -18,4 +17,4 @@ Our first actual project on this, is in reference to issue #2, school records.
 I am going to _well, I have_ set this repository up on my local machine, and setup a branch to start working on this.
 @Dragon-lover, we will cover branches and more in-depth issues in the future. Don't panic. :smile:
 
-
+An [Outline](./docs/outline.md)
