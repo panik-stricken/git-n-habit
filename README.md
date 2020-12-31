@@ -7,3 +7,6 @@
   GitHub is mainly a platform for software developers, and teams thereof, to collaborate on medium to enterprise scale programming projects.  
   
 We are going to be using it for a much different purpose at first, and then get into the development aspect after a while.
+
+If you REALLY have an intrest in learning more of this, you can... [here](https://guides.github.com/) But I suggest just using this as a messaging platform for the week. I will begin work on #2 _records_ When I return home.
+
