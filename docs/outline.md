@@ -17,3 +17,8 @@ Let's start with a design outline.
 2. Navigation Concerns:  
   Alright, we are aiming for a single page, so all of pieces will have to masked, to be displayed as needed. This will require a panel system.  
   So, [Here](https://linen-ubiquitous-scraper.glitch.me/) is a link to the initial proposed view.
+
+  ## UPDATE:
+  This is on glitch! we can use libraries on glitch. Hot dog!  
+  Furthermore, glitch allows for live-updates, meaning I can practice the full code / release workflow from this platform.
+  
