@@ -76,13 +76,11 @@
     
     <div id="display">
         <ul id="main-nav">
-            <li v-for='tab in primary'>{{ tab }}</li>
+            <li v-for='tab in primary' :key="tab" @click="currentTab = tab">{{ tab }}</li>
         </ul>
         <div id='content'>
             <ul id='side-nav'>
-                <li>Settings</li>
-                <li>For</li>
-                <li>Panel</li>
+                <li v-for="setting in panelSettings" :key='setting'>{{ setting }}</li>
             </ul>
             <div id="app-view">
                 <p>Here, will be the controls, and views of your selected actions.</p>
@@ -96,6 +94,7 @@
                 <p>Refactors of course may occur, and issues can be raised at any time through the GitHub platform to help guide the direction of your custom application!</p>
 
                 <h2>Cheers!</h2>
+                {{ currentTab }}
             </div>
         </div>
     </div>
